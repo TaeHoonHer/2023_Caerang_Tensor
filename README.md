@@ -4,6 +4,7 @@ This repository contains the training materials and direction for the 2023 Caera
 
 #### The curriculum for the beginner level will consist of the following:
 
+## Basic Course
 Week 1: Basic Python
 - Introduction to the course and objectives
 - Installing and configuring Python
@@ -38,8 +39,9 @@ Week 4: Advanced Pandas and Real-world Data Analysis
 - Review and Q&A
 - Additional resources and learning direction
 
-The intermediate level curriculum will consist of the following:
+#### The intermediate level curriculum will consist of the following:
 
+## Intermediate Course
 Week 1: Statistical Terminology
 - Overview of statistics and terminology
 - Types of data and scales
