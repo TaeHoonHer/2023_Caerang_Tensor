@@ -4,7 +4,7 @@ This repository serves as a comprehensive guide to the Caerang Tensor Team's 202
 
 To address the diverse skill levels within our team, we have divided our program into two distinct tracks: beginner and intermediate. Our team is composed of undergraduate students ranging from freshmen to seniors, with varying levels of experience and knowledge of Python and data analysis tools. To ensure the maximum benefit and impact for all members, we have tailored our training materials to be approachable yet challenging, covering a broad range of fundamental and advanced topics.
 
-## Beginner track curriculum includes the following topics:
+## Beginner track curriculum includes the following topics
 
 Week 1: Introduction to Python
 - Course overview and objectives
@@ -40,7 +40,7 @@ Week 4: Advanced Pandas and Real-World Data Analysis
 - Review and Q&A
 - Additional resources and learning directions
 
-## Intermediate track curriculum covers more advanced topics and techniques in statistical analysis and data science:
+## Intermediate track curriculum covers more advanced topics and techniques in statistical analysis and data science
 
 Week 1: Statistical Terminology
 - Overview of statistics and terminology
