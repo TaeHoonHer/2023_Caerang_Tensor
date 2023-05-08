@@ -74,3 +74,5 @@ Week 4: Machine Learning Basics and Techniques
 - Additional resources and learning directions
 
 Through these comprehensive and challenging training programs, we aim to equip our team members with the essential knowledge and skills to thrive in the rapidly-evolving field of data science and analysis.
+
+All course materials are created in English, but the explanations in the videos are conducted in Korean
